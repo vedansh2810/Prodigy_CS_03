@@ -57,18 +57,18 @@ This is a simple Python tool to assess the strength of a password based on vario
 
 ## Strength Levels
 
-Very Strong: Meets all criteria.
-Strong: Meets 4 out of 5 criteria.
-Moderate: Meets 3 out of 5 criteria.
-Weak: Meets 2 out of 5 criteria.
-Very Weak: Meets fewer than 2 criteria.
+* Very Strong: Meets all criteria.
+* Strong: Meets 4 out of 5 criteria.
+* Moderate: Meets 3 out of 5 criteria.
+* Weak: Meets 2 out of 5 criteria.
+* Very Weak: Meets fewer than 2 criteria.
 
 ## Feedback
 
 The tool provides specific feedback on what criteria the password does not meet, helping users improve their password strength. For example:
 
-"Password should be at least 12 characters long."
-"Password should contain at least one uppercase letter."
-"Password should contain at least one lowercase letter."
-"Password should contain at least one digit."
-"Password should contain at least one special character."
+* "Password should be at least 12 characters long."
+* "Password should contain at least one uppercase letter."
+* "Password should contain at least one lowercase letter."
+* "Password should contain at least one digit."
+* "Password should contain at least one special character."
