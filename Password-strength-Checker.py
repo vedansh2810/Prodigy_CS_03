@@ -1,5 +1,4 @@
 # password strength checker
-
 import re 
 
 # password strength check conditions:
