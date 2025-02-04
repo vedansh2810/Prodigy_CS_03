@@ -11,7 +11,7 @@ This is a simple Python tool to assess the strength of a password based on vario
 - [Usage](#usage)
 - [Criteria for Password Strength](#criteria-for-password-strength)
 - [Strength Levels](#strength-levels)
-
+- [Feedbacks](#feedback)
 
 ## Features
 
