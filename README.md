@@ -49,11 +49,11 @@ This is a simple Python tool to assess the strength of a password based on vario
 
 ## Criteria for Password Strength
 
-Length: The password should be at least 12 characters long.
-Uppercase Letters: The password should contain at least one uppercase letter.
-Lowercase Letters: The password should contain at least one lowercase letter.
-Digits: The password should contain at least one digit.
-Special Characters: The password should contain at least one special character from the set !@#$%^&*(),.?":{}|<>.
+* Length: The password should be at least 12 characters long.
+* Uppercase Letters: The password should contain at least one uppercase letter.
+* Lowercase Letters: The password should contain at least one lowercase letter.
+* Digits: The password should contain at least one digit.
+* Special Characters: The password should contain at least one special character from the set !@#$%^&*(),.?":{}|<>.
 
 ## Strength Levels
 
