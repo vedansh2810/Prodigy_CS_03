@@ -22,10 +22,12 @@ This is a simple Python tool to assess the strength of a password based on vario
 ## Installation
 
 1. Clone the repository:
+
    ```sh
    git clone https://github.com/your-username/password-strength-assessment-tool.git
 
 2. Navigate to the project directory:
+
     ```sh
     cd password-strength-assessment-tool
 
@@ -34,10 +36,12 @@ This is a simple Python tool to assess the strength of a password based on vario
 ## Usage
 
 1. Run the script:
+
     ```sh
     python assess_password.py
 
 2. Enter a password when prompted:
+
     ```sh
     Enter a password to assess:
 
